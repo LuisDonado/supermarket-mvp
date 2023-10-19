@@ -3,7 +3,6 @@ C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\bin\Debug\net7.0-win
 C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.runtimeconfig.json
 C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.dll
 C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.pdb
-C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Form1.resources
 C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.GenerateResource.cache
 C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfoInputs.cache
@@ -14,3 +13,5 @@ C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0-win
 C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.pdb
 C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.genruntimeconfig.cache
 C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0-windows\ref\Supermarket-mvp.dll
+C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Properties.Resources.resources
+C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.PayModeView.resources

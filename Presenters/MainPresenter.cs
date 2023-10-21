@@ -20,6 +20,7 @@ namespace Supermarket_mvp.Presenters
             this.sqlConnectionString = sqlConnectionString;
 
             this.mainView.ShowPayModeView += ShowPayModeView;
+            this.mainView.ShowCategoryView += ShowCategoryView;
         }
 
         private void ShowPayModeView(object sender, EventArgs e) 
@@ -28,6 +29,13 @@ namespace Supermarket_mvp.Presenters
             IPayModeRepository repository = new PayModeRepository(sqlConnectionString);
             new PayModePresenter(view, repository);
 
+        }
+
+        private void ShowCategoryView(object? sender, EventArgs e)
+        {
+            ICategoryView view = CategoryView.GetInstance((MainView)mainView);
+            ICategoryRepository repository = new CategoryRepository(sqlConnectionString);
+            new CategoryPresenter(view, repository);
         }
     }
 }

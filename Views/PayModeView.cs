@@ -163,5 +163,10 @@ namespace Supermarket_mvp.Views
             }
             return instance;
         }
+
+        private void TxtPayModeId_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

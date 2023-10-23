@@ -43,3 +43,4 @@ C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\bin\Debug\net7.0-win
 C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CopyComplete
 C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.MainView.resources
 C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.CategoryView.resources
+C:\Users\luisi\source\repos\Supermarket-mvp\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.ProviderView.resources
